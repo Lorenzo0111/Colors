@@ -1,0 +1,6 @@
+name: ColorsPlugin
+version: '${project.version}'
+main: me.lorenzo0111.colors.ColorsPlugin
+api-version: '1.20'
+depend: [MeteoriteAPI]
+authors: [Lorenzo0111]
